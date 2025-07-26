@@ -1,0 +1,102 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 12px;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+/* login / sign up */
+
+body {
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.form-container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+  margin-top: 60px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.toggle-link {
+  text-align: center;
+  margin-top: 15px;
+}
+
+/*Doctors*/
+.card {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+}
+/*Pharmacy*/
+.card {
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+/*pha-medi*/
+.list-group-item {
+  border-radius: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+/*Medicine*/
+.card {
+  border-radius: 12px;
+}
+
+.list-group-item {
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+/*appointment*/
+.card {
+  border-radius: 12px;
+}
+/*admine-dashboard*/
+/* Admin Dashboard Styling */
+.sidebar {
+  height: 100vh;
+  background-color: #343a40;
+  color: white;
+  padding: 20px;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  padding: 10px 0;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  background-color: #495057;
+  border-radius: 5px;
+  padding-left: 8px;
+}
+
+.form-container {
+  padding: 40px;
+}
+
+hr {
+  border-color: #6c757d;
+}
