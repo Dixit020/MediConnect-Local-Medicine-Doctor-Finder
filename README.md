@@ -52,3 +52,9 @@ mediconnect/
 │ ├── user_home.png
 │ └── admin_panel.png
 ├── README.md
+
+
+ Team Members – SummerCodeX 2025
+
+- Dixit Prajapati – Frontend & Ui Design , video editor
+- Pranay Prajapati –  BackendBackend Integration and Api database 
